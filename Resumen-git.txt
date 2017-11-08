@@ -1,0 +1,22 @@
+# RESUMEN
+Repositorio orientado a pruebas con git
+
+## Observaciones
+1. Parece facil
+2. Espero que vaya bien
+
+## Esto es lo primero que añado en local
+- Vamos a ver los siguientes:
+	- git status
+	- git add
+	- git commit
+	- git push
+	
+## Repasando ideas:
+* Un fichero puede estar
+	*
+* Vamos a ver lo siguiente
+	* git status
+ 	* git add
+ 	* git commit 
+ 	* git push

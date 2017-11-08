@@ -1,0 +1,26 @@
+# Apuntes git
+  - git init
+    Es
+
+
+##Log pruebas
+git config --global user.name "ericmoros"
+git config --global user.email=eric@sunnydale.es
+git config --global user.
+
+git config --global --list
+
+
+ssh-keygen.exe
+
+
+git@github.com:ericmoros/Desarrollo-web.git
+
+git clone
+git status
+git add *
+git commit -m "Msg"
+git push
+
+
+git init
