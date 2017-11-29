@@ -1,0 +1,63 @@
+CONFIG   | NOMBRE                  → git config --global user.name "Your Name"
+         | E-MAIL                  → git config --global user.email "youremail@domain.com"
+         | EDITOR                  → git config --global core.editor vi
+         | CONFIG                  → git config --list
+
+KEYGEN   | CREAR CLAVE SSH         → ssh-keygen
+
+CLONE    | CLONAR                  → git clone https://github.com/user/repository
+                <carpeta>
+                Cambia el nombre de la carpeta
+INIT     | INICIALIZAR GIT         → git init
+
+STATUS   | ESTADO                  → git status
+
+ADD      | AÑADIR ARCHIVO          → git add <nombrefichero>
+
+COMMIT   | COMITS                  → git commit -m "comentario explicativo"
+
+CHECKOUT | MULTIPLES OPERACIONES   → git checkout
+         |      <nombrefichero>
+         |       descartar fichero
+         |      <nombrerama>
+         |       cambia la cabeza a la rama <nombrerama>
+         |      -b <nombrerama>
+         |       crea y cambia (la cabeza) a la rama <nombrerama>
+
+RESET    | DESCARTAR ARCHIVO LISTO → git reset HEAD <nombrefichero>
+
+BRANCH   | RAMAS                   → git branch
+         |      <nombrerama>
+         |       crea una rama con el nombre <nombrerama>
+         |      -d <nombrerama>
+         |       borra la rama <nombrerama>
+
+MERGE    | FUNDIR RAMA EN CABEZA   → git merge <nombrerama>
+
+PUSH     | SUBIR COMMITS           → git push
+
+FETCH    | BAJAR COMMITS           → git fetch
+
+PULL     | BAJAR Y MERGE           → git pull
+
+LOG      | MOSTRAR LOS COMMITS     → git log
+         |      -<numero>
+         |       muestra <numero> lineas del log (commits)
+         |      -p
+         |       muestra los cambios por commit
+         |      --oneline
+         |       muestra el hash resumido y el mensaje de los commits
+
+
+
+
+
+
+
+
+
+
+
+
+
+
